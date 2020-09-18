@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Felix Lennert is Graduate Student in Computational Social Science and Graduate Research Assistant at Linköping University. His research interests include extracting public opinion from digital trace data using text mining methods.s
+Felix Lennert is Graduate Student in Computational Social Science and Graduate Research Assistant at Linköping University. His research interests include extracting public opinion from digital trace data using text mining methods.
