@@ -4,7 +4,7 @@ title: Felix Lennert
 
 # Username (this should match the folder name)
 authors:
-- admin
+- felix-lennert
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ organizations:
   url: "https://liu.se/en/organisation/liu/iei/ias"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - R
@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Felix Lennert is Graduate Student in Computational Social Science and Graduate Research Assistant at Linköping University. His research interests include extracting public opinion from digital trace data using text mining methods.
+Felix Lennert is Graduate Student in Computational Social Science and Graduate Research Assistant at Linköping University. His research interests include extracting public opinion from digital trace data using text mining methods. Beyond that, he is currently teaching two courses at the University of Regensburg -- more about them in the course section.
