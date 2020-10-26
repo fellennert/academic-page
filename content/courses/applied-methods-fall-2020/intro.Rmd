@@ -1,10 +1,11 @@
 ---
-title: "Learning R — Getting Started"
-author: "Felix Lennert"
-date: "knit on `r lubridate::today()`"
-output: html_document
-csl: ASA.csl
+title: Purrr - tips and tricks
+date: '2018-01-08'
+categories: []
+image:
+  preview_only: true
 bibliography: bibliographyR.bib
+csl: ASA.csl
 ---
 
 ```{r setup, include=FALSE}
