@@ -8,5 +8,5 @@ type: book
 
 This script will introduce you to three techniques I regard as elementary for any aspiring (computational) social scientist: first, the collection of digital trace data via either scraping the web or acquiring data from application programming interfaces (APIs); second, the simulation of human behavior using agent-based modeling; and, third, the analysis of text in an automated fashion (text mining).
 
-The script is hosted using bookdown. You can find it here: <https://bookdown.org/f_lennert/book-toolbox_css>.
+The script is hosted using bookdown. You can find it here: <https://bookdown.org/f_lennert/book-toolbox_css>. But beware, I'm speaking German in the videos. An English version might be added someday. A French version will never be added.
 

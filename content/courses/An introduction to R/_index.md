@@ -6,5 +6,5 @@ title: "\U0001F4BB Intro to R"
 type: book
 ---
 
-The script is hosted using bookdown. You can find it here: <https://bookdown.org/f_lennert/introduction-to-r/>.
+The script is hosted using bookdown. You can find it here: <https://bookdown.org/f_lennert/introduction-to-r/>. The videos are in English, but the quality is not optimal. I am planning on revising them someday.
 
