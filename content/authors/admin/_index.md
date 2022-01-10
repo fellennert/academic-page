@@ -42,7 +42,7 @@ title: Felix Lennert
 
 Hi and welcome to my website. I am a Ph.D. candidate in Sociology at the Institut Polytechnique de Paris under the supervision of Étienne Ollion. I hold an M.Sc. in Computational Social Science from Linköping Universitet and a B.A. in Political Science from the University of Regensburg. My research interest centers around political polarization and its underlying processes which I study using large-scale social media data and a diverse set of computational methods.
 
-In the recent past, I have had the honor to teach multiple courses on R and how you can use it for social scientific endeavors at the University of Leipzig, the Stockholm School of Economics, and the University of Regensburg. You can find some of the course material in the courses section. 
+In the recent past, I had the honor to teach multiple courses on R and how you can use it for social scientific endeavors at the University of Leipzig, the Stockholm School of Economics, and the University of Regensburg. You can find some of the course materials in the courses section. 
 
 Other than that, this website is still empty. This is due to the fact that I have started my Ph.D. fairly recently and have nothing to present (yet). If you want to hear something about what I am currently working on, please reach out, I am happy to chat whenever. 
 
