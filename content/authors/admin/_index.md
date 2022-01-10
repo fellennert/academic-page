@@ -44,4 +44,6 @@ Hi and welcome to my website. I am a Ph.D. candidate in Sociology at the Institu
 
 In the recent past, I have had the honor to teach multiple courses on R and how you can use it for social scientific endeavors at the University of Leipzig, the Stockholm School of Economics, and the University of Regensburg. You can find some of the course material in the courses section. 
 
+Other than that, this website is still empty. This is due to the fact that I have started my Ph.D. fairly recently and have nothing to present (yet). If you want to hear something about what I am currently working on, please reach out, I am happy to chat whenever. 
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV-markdown.pdf" "newtab" >}}CV{{< /staticref >}}.
