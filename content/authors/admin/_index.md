@@ -5,10 +5,10 @@ education:
   - course: Ph.D. in Sociology
     institution: Institut Polytechnique de Paris
     year: 2021 -- now
-  - course: M.Sc.
+  - course: M.Sc. in Computational Social Science
     institution: Linköping Universitet
     year: 2021
-  - course: B.A.
+  - course: B.A. in Political Science
     institution: University of Regensburg
     year: 2018
 email: "felix.lennert@ensae.fr"
