@@ -5,7 +5,7 @@ widget: contact
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 # Order that this section appears on the page.
 weight: 130
 
@@ -23,7 +23,7 @@ content:
       id: test
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: felix.lennert@ensae.fr
   
 design:
   columns: '2'
