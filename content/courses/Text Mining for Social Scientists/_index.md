@@ -1,8 +1,8 @@
 ---
 date: "2022-05-12"
 linkTitle: Text Mining for Social Scientists
-summary: This is a gentle introduction to ttext mining in R [work in progress]
-title: "\U0001F4BB Intro to R"
+summary: This is a gentle introduction to text mining in R [work in progress]
+title: "\U0001F4BB Text Mining for Social Scientists"
 type: book
 ---
 
